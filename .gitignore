@@ -1,0 +1,9 @@
+node_modules/
+travel-react/node_modules/
+travel-react/public/assests/
+assests/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
